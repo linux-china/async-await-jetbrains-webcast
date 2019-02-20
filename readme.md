@@ -21,3 +21,4 @@ A: Async is a technique, asyncio is an implementation in the Python standard lib
 * Ultra fast asyncio event loop: https://github.com/MagicStack/uvloop
 * Async Techniques and Examples in Python: https://training.talkpython.fm/courses/explore_async_python/async-in-python-with-threading-and-multiprocessing
 * Python黑魔法 --- 异步IO（ asyncio） 协程: https://www.jianshu.com/p/b5e347b3a17c
+* Using Asyncio in Python 3: https://learning.oreilly.com/library/view/using-asyncio-in/9781491999691/
