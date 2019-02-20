@@ -1,0 +1,7 @@
+requests
+colorama
+unsync
+aiohttp
+cchardet
+bs4
+uvloop
